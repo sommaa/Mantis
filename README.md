@@ -20,8 +20,9 @@ My linux visually pleasing(at least to me) setup for studing.
 
 ## showcase
 
-* ![2023-02-22_18-42](https://user-images.githubusercontent.com/120776791/220720213-87619a9b-8174-47db-9389-c9c47b8229d8.png)
-* ![2023-02-22_18-48](https://user-images.githubusercontent.com/120776791/220720313-59d27bb3-bb36-4154-bad0-664678f2bbd8.png)
-* ![2023-02-22_19-00](https://user-images.githubusercontent.com/120776791/220720389-20241047-94fc-426e-b61a-0475b7fdd1cd.png)
-* ![2023-02-22-190047_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/220720454-ab1b2329-0b01-4e63-8297-ac1491be84c1.png)
-* ![2023-02-22-190116_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/220720500-1abc6f8b-2128-48cf-a002-f63b9332856b.png)
+![2023-02-22-211048_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/220749106-9b150c64-3790-453f-9568-7b17f702368f.png)
+
+![2023-02-22_21-14](https://user-images.githubusercontent.com/120776791/220749186-1c1b083a-3675-44d4-aa4e-d3461173507a.png)
+
+![2023-02-22-211558_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/220749218-356c154d-fb4f-4f89-8f09-c817d743745e.png)
+
