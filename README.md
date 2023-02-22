@@ -10,7 +10,7 @@ My linux visually pleasing(at least to me) setup for studing.
 - rofi themes: https://github.com/adi1090x/rofi;
 - text editor: [neovim](https://neovim.io/);
 - neovim config: [Astrovim](https://github.com/AstroNvim/AstroNvim);
-- window manager: [i3](https://i3wm.org/) with gaps, custom theme;
+- window manager: [i3](https://i3wm.org/) with gaps;
 - terminal: [kitty](https://github.com/kovidgoyal/kitty);
 - shell: [zsh](https://www.zsh.org/);
 - shell theme: [p10k](https://github.com/romkatv/powerlevel10k);
