@@ -95,8 +95,6 @@ https://it.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
   * [Cascursive](https://github.com/sainnhe/icursive-nerd-font/tree/master/dist/Cascursive)
   * [Azereth Mono](https://fonts.google.com/specimen/Azeret+Mono)
   
-<br/><br/>
-
 ## Showcase
 
 ![2023-02-22-211048_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/220749106-9b150c64-3790-453f-9568-7b17f702368f.png)
