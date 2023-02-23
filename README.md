@@ -38,7 +38,7 @@
 
 * Main dependencies:
 ```bash
-sudo apt install -y picom polybar rofi neovim i3-gaps kitty zsh zathura ranger nala nitrogen xsensor arandr python3 brightnessctl flameshot gzip curl git
+sudo apt install -y picom polybar rofi neovim i3-gaps kitty zsh zathura ranger nala nitrogen xsensor arandr python3 brightnessctl flameshot gzip curl git pip
 ```
 
 * Alternating_layouts and [xborders](https://github.com/deter0/xborder) python dependencies:
