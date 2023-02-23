@@ -75,7 +75,7 @@ chmod +x setup.sh
 
 * Remaining installations/programs/configurations:
 ```bash
-  Astrovim, oh-my-zsh, powerlevel10k
+  Astrovim, oh-my-zsh, powerlevel10k, spicetify
 ```
 
 * Now you are ready to copy config files!
