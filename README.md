@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 <!-- PROJECT LOGO -->
 <br />
@@ -90,6 +91,10 @@ cp -r * $HOME/.config
   * [Cascursive](https://github.com/sainnhe/icursive-nerd-font/tree/master/dist/Cascursive)
   * [Azereth Mono](https://fonts.google.com/specimen/Azeret+Mono)
   
+<br/><br/>
+
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ## Showcase
 
 ![2023-02-22-211048_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/220749106-9b150c64-3790-453f-9568-7b17f702368f.png)
