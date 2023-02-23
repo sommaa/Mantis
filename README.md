@@ -6,7 +6,7 @@
 
   </a>
 
-  <h3 align="center">Andre i3 Theme</h3>
+  <h3 align="center">Andre-i3wm-Theme</h3>
 
   <p align="center">
     A visually pleasing grey-green theme for yout i3wm!
