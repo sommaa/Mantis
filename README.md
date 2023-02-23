@@ -84,6 +84,10 @@ cd dots/dots
 cp -r * $HOME/.config
 ```
 
+* Matlab color scheme importer:
+```bash
+https://it.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+```
 * Nedeed fonts:
   * [Iosevka Nerd Font](https://www.nerdfonts.com/font-downloads)
   * [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
