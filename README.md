@@ -48,7 +48,7 @@ arandr python3 brightnessctl flameshot gzip curl git pip dunst
 
 * [i3-Alternating-layouts](https://github.com/olemartinorg/i3-alternating-layout) and [xborders](https://github.com/deter0/xborder) python dependencies:
 ```bash
-pip install pycairo requests 
+pip install pycairo requests i3ipc
 ```
 
 * Add i3 latest version repo to your repositories and install i3:
