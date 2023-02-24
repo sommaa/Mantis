@@ -37,7 +37,7 @@
 - terminal file manager: [ranger](https://github.com/ranger/ranger);
 - package manager wrapper: [nala](https://github.com/volitank/nala).
 - spotify theme: [spicetify](https://spicetify.app/docs/advanced-usage/themes/), community theme: Dreary, color scheme: in dots folder.
-
+- icon pack: ePapirus-Dark
 ## Installation
 
 * Main dependencies:
