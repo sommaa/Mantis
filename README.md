@@ -36,7 +36,7 @@
 - pdf reader: [zathura](https://pwmt.org/projects/zathura/);
 - terminal file manager: [ranger](https://github.com/ranger/ranger);
 - package manager wrapper: [nala](https://github.com/volitank/nala).
-- spotify theme: [spicetify](https://spicetify.app/docs/advanced-usage/themes/), community theme: Dreary
+- spotify theme: [spicetify](https://spicetify.app/docs/advanced-usage/themes/), community theme: Dreary, color scheme: in dots folder.
 
 ## Installation
 
