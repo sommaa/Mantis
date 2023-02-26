@@ -79,6 +79,8 @@ chmod +x setup.sh
   Astrovim, oh-my-zsh, powerlevel10k, spicetify
 ```
 
+* **Move .zshrc and .p10k.zsh** to your home directory (remember to rename them with the dot in front)
+
 * Now you are ready to copy config files!
 ```bash
 git clone https://github.com/sommaa/dots.git
