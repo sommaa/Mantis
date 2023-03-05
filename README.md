@@ -15,7 +15,7 @@
   <h3 align="center">Andre-i3wm-Theme</h3>
 
   <p align="center">
-    A visually pleasing grey-green theme for yout i3wm!
+    A visually pleasing grey-green theme for your i3wm!
     <br />
     <a href="https://github.com/sommaa/dots/issues">Report Bug</a>
     ·
