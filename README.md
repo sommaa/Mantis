@@ -41,6 +41,8 @@
 - package manager wrapper: [nala](https://github.com/volitank/nala).
 - spotify theme: [spicetify](https://spicetify.app/docs/advanced-usage/themes/), community theme: Dreary, color scheme: in dots folder.
 - icon pack: ePapirus-Dark
+- borders: [xborders](https://github.com/deter0/xborder)
+- i3 layouts: [alternating_layouts](https://github.com/olemartinorg/i3-alternating-layout)
 ## Installation
 
 * Main dependencies:
