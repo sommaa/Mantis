@@ -31,7 +31,7 @@
 - launcer & powermenu: [rofi](https://github.com/davatorium/rofi);
 - rofi themes: https://github.com/adi1090x/rofi;
 - text editor: [neovim](https://neovim.io/);
-- neovim config: [Astrovim](https://github.com/AstroNvim/AstroNvim);
+- neovim config: [AstroNvim](https://github.com/AstroNvim/AstroNvim);
 - window manager: [i3](https://i3wm.org/) with gaps;
 - terminal: [kitty](https://github.com/kovidgoyal/kitty);
 - shell: [zsh](https://www.zsh.org/);
