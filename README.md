@@ -80,7 +80,7 @@ chmod +x setup.sh
 
 * Remaining installations/programs/configurations:
 ```bash
-  Astrovim, oh-my-zsh, powerlevel10k, spicetify
+  AstroNvim, oh-my-zsh, powerlevel10k, spicetify
 ```
 
 * **Move .zshrc and .p10k.zsh** to your home directory (remember to rename them with the dot in front)
