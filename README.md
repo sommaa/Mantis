@@ -91,7 +91,10 @@ git clone https://github.com/sommaa/dots.git
 cd dots/dots
 cp -r * $HOME/.config
 ```
-
+* **Remember to make scripts (like xborders, alternating_layouts, polybar scripts, etc) executable**!
+```bash
+chmod +x <Name of the script>
+```
 * Matlab color scheme importer:
 ```bash
 https://it.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
