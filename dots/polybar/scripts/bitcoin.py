@@ -27,3 +27,4 @@ except requests.exceptions.ConnectionError as e:
     
     local_price = round(Decimal(json_store["current_price"][f'{base_currency.lower()}']), 2)
     sys.stdout.write(f'{local_price}'+'$'+'  ')
+
