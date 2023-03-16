@@ -8,8 +8,8 @@ exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id dbus-update-activation-environment --systemd DBUS_SESSION_BUS_ADDRESS DISPLAY XAUTHORITY
 exec --no-startup-id picom
-exec --no-startup-id /home/andrea/.config/i3/HDMI-launcher
-exec --no-startup-id dunst -config /home/andrea/.config/dunstrc &>/dev/null
+exec --no-startup-id $HOME/.config/i3/HDMI-launcher
+exec --no-startup-id dunst -config $HOME/.config/dunstrc &>/dev/null
 
 gaps inner 45
 for_window [class="^.*"] border pixel 0
@@ -36,9 +36,9 @@ font pango:monospace 8
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 
-exec --no-startup-id /home/andrea/.config/polybar/launch.sh
-exec --no-startup-id /home/andrea/.config/i3/alternating_layouts.py
-exec --no-startup-id /home/andrea/.config/i3/xborders --config /home/andrea/.config/i3/borders_settings 
+exec --no-startup-id $HOME/.config/polybar/launch.sh
+exec --no-startup-id $HOME/.config/i3/alternating_layouts.py
+exec --no-startup-id $HOME/.config/i3/xborders --config $HOME/.config/i3/borders_settings 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
@@ -79,7 +79,7 @@ bindsym ctrl+w kill
 # start dmenu (a program launcher)
 #bindsym Mod1+d exec --no-startup-id dmenu_run
 # A more modern dmenu replacement is rofi:
-bindsym ctrl+r exec rofi -show drun -theme /home/andrea/.config/rofi/launchers/type-1/style-5.rasi
+bindsym ctrl+r exec rofi -show drun -theme $HOME/.config/rofi/launchers/type-1/style-5.rasi
 bindsym ctrl+q exec kitty ranger
 # There also is i3-dmenu-desktop which only displays applications shipping a
 # .desktop file. It is a wrapper around dmenu, so you need that installed.

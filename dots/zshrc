@@ -116,7 +116,7 @@ source $ZSH/oh-my-zsh.sh
 alias matlab="env MESA_LOADER_DRIVER_OVERRIDE=i965 matlab -desktop"
 export PATH=$HOME/.config/rofi/scripts:$PATH
 alias v="nvim"
-alias connMonitor="/home/andrea/.config/i3/HDMI-launcher"
+alias connMonitor="$HOME/.config/i3/HDMI-launcher"
 export EDITOR='nvim'
 
 # apt override
@@ -131,3 +131,5 @@ sudo() {
     command sudo "$@"
   fi
 }
+
+export PATH=$PATH:$HOME/.spicetify
