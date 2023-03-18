@@ -26,10 +26,10 @@ for dir in raw_split:
     # decoding the output
     out = stdout.decode("utf-8")
     out = out.split()
-    mod = mod + out.count("M ")
-    new = new + out.count("?? ")
+    mod = mod + out.count("M")
+    new = new + out.count("??")
 
-sys.stdout.write('  ' + f'{new}')
+sys.stdout.write('   ' + f'{new}')
 sys.stdout.write(' ')
 sys.stdout.write('󰏫 'f'{mod}')
 

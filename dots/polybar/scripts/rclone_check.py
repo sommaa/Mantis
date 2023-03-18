@@ -17,11 +17,15 @@ raw = stdout.decode("utf-8")
 raw_split = raw.split()
 
 # writing outputs
-if "differences" in raw:
-    idx_diff = raw_split.index("differences")
-    sys.stdout.write('󰏫 'f'{raw_split[idx_diff-1]}')
-    sys.stdout.write(' ') 
 if "missing" in raw:
     idx_missing = raw_split.index(("missing"))
     sys.stdout.write('  ' + f'{raw_split[idx_missing-2]}')
+else:
+    sys.stdout.write('  0' )
+
+if "differences" in raw:
+    idx_diff = raw_split.index("differences")
+    sys.stdout.write(' 󰏫 'f'{raw_split[idx_diff-1]}')
+    sys.stdout.write(' ')
+
 
