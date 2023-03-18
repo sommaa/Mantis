@@ -224,3 +224,4 @@ bindsym Mod1+r mode "resize"
 ##===========================================================================================##
 # Assign Workspaces:
 for_window [class="Spotify"] move container to workspace 3
+for_window [title="Figure*"] floating enable
