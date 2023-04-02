@@ -43,6 +43,7 @@
 - icon pack: ePapirus-Dark
 - borders: [xborders](https://github.com/deter0/xborder)
 - i3 layouts: [alternating_layouts](https://github.com/olemartinorg/i3-alternating-layout)
+- firefox: [ccs_theme](/dots/chrome)
 ## Installation
 
 * Main dependencies:
@@ -76,6 +77,11 @@ git clone --depth=1 https://github.com/adi1090x/rofi.git
 cd rofi
 chmod +x setup.sh
 ./setup.sh
+```
+
+* firefox theme:
+```bash
+enable firefox custom ccs in "about:config" page and copy chrome folder in $HOME/.mozilla/firefox/XXXXX.default-release/chrome 
 ```
 
 * Remaining installations/programs/configurations:
