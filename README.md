@@ -80,7 +80,7 @@ chmod +x setup.sh
 ```
 
 * firefox theme:
-```bash
+```
 enable firefox custom ccs in "about:config" page and copy chrome folder in $HOME/.mozilla/firefox/XXXXX.default-release/chrome 
 ```
 
