@@ -116,12 +116,8 @@ https://it.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
   
 ## Showcase
 
-![2023-04-02_15-55_1](https://user-images.githubusercontent.com/120776791/229357430-012b8a2a-502c-4cdc-937a-5cf5ce1bb881.png)
+![reddit](https://user-images.githubusercontent.com/120776791/229539421-8e6aad53-e68e-4bc5-88d9-16ae9c0a3f44.png)
 
-![2023-04-03_11-44](https://user-images.githubusercontent.com/120776791/229473820-b066b57d-33f3-472b-a34f-13fa2c9e626f.png)
 
-![2023-04-02-155010_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/229357523-32179480-4c58-4b57-9853-4b8f1ee82e45.png)
-
-![2023-04-02_15-55](https://user-images.githubusercontent.com/120776791/229357530-ef725c4d-6f41-4a6a-91c3-6bc51d9dee7f.png)
 
 
