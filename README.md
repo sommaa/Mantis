@@ -44,7 +44,7 @@
 - borders: [xborders](https://github.com/deter0/xborder)
 - i3 layouts: [alternating_layouts](https://github.com/olemartinorg/i3-alternating-layout)
 - firefox: [ccs_theme](/dots/chrome)
-- firefox homepage: [nightabt](https://addons.mozilla.org/it/firefox/addon/nighttab/)
+- firefox homepage: [nighttab](https://addons.mozilla.org/it/firefox/addon/nighttab/)
 ## Installation
 
 * Main dependencies:
