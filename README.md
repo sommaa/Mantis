@@ -44,6 +44,7 @@
 - borders: [xborders](https://github.com/deter0/xborder)
 - i3 layouts: [alternating_layouts](https://github.com/olemartinorg/i3-alternating-layout)
 - firefox: [ccs_theme](/dots/chrome)
+- firefox homepage: [nightabt](https://addons.mozilla.org/it/firefox/addon/nighttab/)
 ## Installation
 
 * Main dependencies:
@@ -116,7 +117,7 @@ https://it.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
 
 ![2023-04-02_15-55_1](https://user-images.githubusercontent.com/120776791/229357430-012b8a2a-502c-4cdc-937a-5cf5ce1bb881.png)
 
-![2023-04-02_15-47](https://user-images.githubusercontent.com/120776791/229357419-509200b5-4499-4513-9b64-1c741ae04b2e.png)
+![2023-04-03_11-44](https://user-images.githubusercontent.com/120776791/229473820-b066b57d-33f3-472b-a34f-13fa2c9e626f.png)
 
 ![2023-04-02-155010_1920x1080_scrot](https://user-images.githubusercontent.com/120776791/229357523-32179480-4c58-4b57-9853-4b8f1ee82e45.png)
 
