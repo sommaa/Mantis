@@ -1,8 +1,12 @@
 <a name="readme-top"></a>
+<div align="center">
+
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![ccs](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/github/last-commit/sommaa/dots?&style=for-the-badge&color=CFFC49&logoColor=171718&labelColor=171718)
 ![](https://img.shields.io/github/stars/sommaa/dots?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=171718)
 [![](https://img.shields.io/github/repo-size/sommaa/dots?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=171718)](https://github.com/sommaa/dots)
+
+</div >
 
 <!-- PROJECT LOGO -->
 <br />
@@ -23,7 +27,7 @@
   </p>
 </div>
 
-## ColorScheme
+## :frog: ColorScheme
 <div align="center">
 <table>
   <thead>
@@ -53,30 +57,37 @@
 </table>
 </div >
   
-## Features
-- OS: [Ubuntu-Latest](https://ubuntu.com/);
-- display server: [X11](https://www.x.org/wiki/)
-- compositor: [picom](https://github.com/yshui/picom)
-- top bar: [polybar](https://github.com/polybar/polybar);
-- launcer & powermenu: [rofi](https://github.com/davatorium/rofi);
-- rofi themes: https://github.com/adi1090x/rofi;
-- text editor: [neovim](https://neovim.io/);
-- notification deamon: dunst;
-- neovim config: [AstroNvim](https://github.com/AstroNvim/AstroNvim);
-- window manager: [i3](https://i3wm.org/) with gaps;
-- terminal: [kitty](https://github.com/kovidgoyal/kitty);
-- shell: [zsh](https://www.zsh.org/);
-- shell theme: [p10k](https://github.com/romkatv/powerlevel10k);
-- pdf reader: [zathura](https://pwmt.org/projects/zathura/);
-- terminal file manager: [ranger](https://github.com/ranger/ranger);
-- package manager wrapper: [nala](https://github.com/volitank/nala).
-- spotify theme: [spicetify](https://spicetify.app/docs/advanced-usage/themes/), community theme: Dreary, color scheme: in dots folder.
-- icon pack: ePapirus-Dark
-- borders: [xborders](https://github.com/deter0/xborder)
-- i3 layouts: [alternating_layouts](https://github.com/olemartinorg/i3-alternating-layout)
-- firefox: [ccs_theme](/dots/chrome)
-- firefox homepage: [nighttab](https://addons.mozilla.org/it/firefox/addon/nighttab/)
-## Installation
+## :package: Features
+<div align="center">
+
+|        | Link                                 |
+|:------:|:------------------------------------:|
+|OS      | [Ubuntu-Latest](https://ubuntu.com/) |
+|Display Server| [X11](https://www.x.org/wiki/) |
+|Compositor| [picom](https://github.com/yshui/picom)|
+|Top Bar| [polybar](https://github.com/polybar/polybar)|
+|Launcer & Powermenu| [rofi](https://github.com/davatorium/rofi)|
+|Rofi Themes| [rofi](https://github.com/adi1090x/rofi)|
+|Text Editor| [neovim](https://neovim.io/)|
+|Notification Deamon| [dunst](https://dunst-project.org/)|
+|Neovim Config| [AstroNvim](https://github.com/AstroNvim/AstroNvim)|
+|Window Manager| [i3-gaps](https://i3wm.org/) |
+|Terminal| [kitty](https://github.com/kovidgoyal/kitty)|
+|Shell| [zsh](https://www.zsh.org/)|
+|Shell Theme| [p10k](https://github.com/romkatv/powerlevel10k)|
+|Pdf Reader| [zathura](https://pwmt.org/projects/zathura/)|
+|Terminal File Manager| [ranger](https://github.com/ranger/ranger)|
+|Package Manager Wrapper| [nala](https://github.com/volitank/nala)|
+|Spotify Theme| [spicetify](https://spicetify.app/docs/advanced-usage/themes/), community themes: [Dreary](https://github.com/spicetify/spicetify-themes), color scheme: [Mantis](/dots/spicetify/Themes/Dreary)|
+|Icon Pack| [ePapirus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)|
+|Borders| [xborders](https://github.com/deter0/xborder)|
+|i3 Layouts| [alternating_layouts](https://github.com/olemartinorg/i3-alternating-layout)|
+|Firefox| [ccs_theme](/dots/chrome)|
+|Firefox Homepage| [nighttab](https://addons.mozilla.org/it/firefox/addon/nighttab/)|
+
+</div>
+
+## :inbox_tray: Installation
 
 * Main dependencies:
 ```bash
@@ -144,7 +155,7 @@ https://it.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
   * [Cascursive](https://github.com/sainnhe/icursive-nerd-font/tree/master/dist/Cascursive)
   * [Azereth Mono](https://fonts.google.com/specimen/Azeret+Mono)
   
-## Showcase
+## :clapper: Showcase
 
 ![reddit](https://user-images.githubusercontent.com/120776791/229539421-8e6aad53-e68e-4bc5-88d9-16ae9c0a3f44.png)
 
