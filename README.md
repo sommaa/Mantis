@@ -140,7 +140,7 @@ enable firefox custom ccs in "about:config" page and copy chrome folder in $HOME
 * Now you are ready to copy config files!
 ```bash
 git clone https://github.com/sommaa/dots.git
-cd dots/dots
+cd Mantis/dots
 cp -r * $HOME/.config
 ```
 * **Remember to make scripts (like xborders, alternating_layouts, polybar scripts, etc) executable**!
