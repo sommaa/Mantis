@@ -8,11 +8,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/sommaa/dots">
-    <img src="https://user-images.githubusercontent.com/120776791/220881593-1a4b6d38-057b-4118-8f08-ec2bc5d89fd3.png" alt="Logo" width="350" height="80">
+    <img src="https://user-images.githubusercontent.com/120776791/229870169-e35ad7cf-b7b5-4ffe-88c4-b1a7191cde70.png" alt="Logo" width="350" height="80">
 
   </a>
 
-  <h3 align="center">Andre-i3wm-Theme</h3>
+  <h3 align="center">i3wm-Theme</h3>
 
   <p align="center">
     A visually pleasing grey-green theme for your i3wm!
@@ -23,6 +23,36 @@
   </p>
 </div>
 
+## ColorScheme
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Preview</th>
+      <th>Hex</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p align="center"><img src="https://user-images.githubusercontent.com/120776791/229868127-80814544-42e0-40d1-85c1-6b19e5b906de.png" width="26" height="26" align="center"></p></td>
+      <td>#CFFC49</td>
+      <td>Lime</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="https://user-images.githubusercontent.com/120776791/229868445-db9db673-d9d9-4b97-a449-ad1b3501317b.png" width="26" height="26" align="center"></p></td>
+      <td>#323946</td>
+      <td>Grey</td>
+    </tr>
+    <tr>
+      <td><p align="center"><img src="https://user-images.githubusercontent.com/120776791/229868627-5101d073-7fa0-484e-b974-7f8bd9ca39ea.png" width="26" height="26" align="center"></p></td>
+      <td>#15171A</td>
+      <td>Anthracite</td>
+    </tr>
+   </tbody>
+</table>
+</div >
+  
 ## Features
 - OS: [Ubuntu-Latest](https://ubuntu.com/);
 - display server: [X11](https://www.x.org/wiki/)
