@@ -12,8 +12,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/sommaa/dots">
+    <img src="https://user-images.githubusercontent.com/120776791/229891728-d2651330-f1e0-48be-b87c-d238ef3739ff.png" alt="Logo" width="154" height="120">
+    <br />
+  </a>
+  <a href="https://github.com/sommaa/dots">
     <img src="https://user-images.githubusercontent.com/120776791/229870169-e35ad7cf-b7b5-4ffe-88c4-b1a7191cde70.png" alt="Logo" width="350" height="80">
-
   </a>
 
   <h3 align="center">i3wm-Theme</h3>
