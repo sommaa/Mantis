@@ -19,6 +19,8 @@ return {
     },
     ["<C-a>"] = { "<cmd>Neotree toggle<cr>" },
     ["<C-z>"] = { "<cmd>u<cr>" },
+    ["<C-Right>"] = { "<cmd>bnext<cr>" },
+    ["<C-Left>"] = { "<cmd>bprevious<cr>" },
     -- tables with the `name` key will be registered with which-key if it's installed
     -- this is useful for naming menus
     ["<leader>b"] = { name = "Buffers" },
