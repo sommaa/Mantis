@@ -138,7 +138,7 @@ enable firefox custom ccs in "about:config" page and copy chrome folder in $HOME
 
 * Remaining installations/programs/configurations:
 ```bash
-  AstroNvim, oh-my-zsh, powerlevel10k, spicetify
+  AstroNvim, oh-my-zsh, powerlevel10k or starship, spicetify
 ```
 
 * **Move .zshrc and .p10k.zsh** to your home directory (remember to rename them with the dot in front)
