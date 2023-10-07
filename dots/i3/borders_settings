@@ -1,8 +1,8 @@
 {
-    "border-rgba": "0xfad07b255",
+    "border-rgba": "0xcffc49ff",
   
     "border-radius": 12,
-    "border-width": 2.5,
+    "border-width": 3,
     "border-mode": "center",
     "disable-version-warning": true,
 
